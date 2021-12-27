@@ -6,9 +6,6 @@
 其实也是我提交了的两次小作业[又一个Taichi语言的Ray Tracer](https://github.com/0xrabbyte/TinyRayTracer-Taichi)(顺便一提我后来又更新了这个项目,添加了上面那张slide中的前两项及其他一些东西,虽然考虑到效率问题这个项目还是用了最初版的代码)和[最简单的流体仿真](https://github.com/0xrabbyte/taichi_simple_fluid_solver)的结合体
 
 ## 运行方式
-> 展示项目运行方式，让更多的人在自己的机器上运行你的代码查看运行效果。
-> 为了复现运行效果，请给出你的运行环境。
-> 如果项目有依赖，请给出项目的依赖。
 
 #### 运行环境：
 `[Taichi] version 0.8.8, llvm 10.0.0, commit 7bae9c77, win, python 3.7.8`
